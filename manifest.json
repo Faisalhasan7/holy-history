@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Privacy Buddy",
+  "version": "1.0",
+  "description": "Automatically deletes browsing history for user-specified websites.",
+  "permissions": [
+    "tabs",
+    "history",
+    "storage",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
