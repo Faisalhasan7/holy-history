@@ -13,7 +13,7 @@ A lightweight Chrome extension that automatically deletes browsing history for u
 1. Clone or download this repository.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** (top-right toggle).
-4. Click **Load unpacked** and select the `privacy-cleaner` folder.
+4. Click **Load unpacked** and select the `privacy-buddy` folder.
 5. The extension icon should appear in the Chrome toolbar.
 
 ## Usage
@@ -33,7 +33,7 @@ A lightweight Chrome extension that automatically deletes browsing history for u
 
 ## Development
 To modify or contribute:
-1. Clone the repository: `git clone https://github.com/your-username/privacy-cleaner.git`
+1. Clone the repository: `git clone https://github.com/your-username/privacy-buddy.git`
 2. Make changes to the code.
 3. Reload the extension in Chrome (`chrome://extensions/` > **Refresh**).
 
