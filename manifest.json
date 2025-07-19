@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Privacy Buddy",
+  "name": "Holy History",
   "version": "1.0",
   "description": "Automatically deletes browsing history for user-specified websites.",
   "permissions": [
